@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker inspect mongodb-service 
+docker inspect redis-service 

@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker logs --follow=true --tail=all mongodb-service 
+docker logs --follow=true --tail=all redis-service 

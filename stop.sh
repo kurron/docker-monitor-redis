@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker stop mongodb-service 
-docker rm mongodb-service 
+docker stop redis-service 
+docker rm redis-service 

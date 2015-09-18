@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker build --pull --tag="kurron/monitor-mongodb:latest" .
+docker build --pull --tag="kurron/monitor-redis:latest" .
 docker images
